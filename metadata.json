@@ -1,0 +1,6 @@
+{
+  "name": "Dental Clove Clinic",
+  "description": "Dental Clove is a trusted 2-doctor dental clinic in Sector 12, Noida, Delhi NCR, providing gentle and modern dental care since 2016.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
